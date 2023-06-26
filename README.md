@@ -13,3 +13,5 @@ Interactive Gameplay: Engage in an exciting gameplay experience that involves ro
 Score Tracking: Keep track of your scores and progress throughout the game. Monitor your performance and strive to achieve higher scores with each playthrough.
 
 Randomized Dice Rolls: Experience the thrill of rolling dice with random outcomes. The game utilizes an algorithm to generate unpredictable results, ensuring fairness and excitement.
+
+
